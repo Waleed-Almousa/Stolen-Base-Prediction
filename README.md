@@ -1,4 +1,4 @@
-Repo consists of a python model built using SciKit-Learn in order to predict the whether or not a stolen base attempt will be successful
+Repo consists of a python model built using SciKit-Learn in order to predict whether or not a stolen base attempt will be successful
 
 **MLB Stolen Base Predictions.pdf**: Powerpoint presentation of analasys and results
 
