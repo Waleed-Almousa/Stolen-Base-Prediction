@@ -4,7 +4,7 @@ The final model is a random forest classifier that is able to predict the succes
 
 Precision is most important in this context as it indicates that 97% of the time that the model predicts that a stolen base attempt will be successful, it will be correct. This model can be used to minimize the risk taken by MLB coaches and dramatically increase their team's stolen base attempt success rate. 
 
-**MLB Stolen Base Predictions.pdf**: Powerpoint presentation of analasys and results
+**MLB Stolen Base Predictions.pdf**: Powerpoint presentation of analysis and results
 
  **Project-Report.pdf**: Project report
 
