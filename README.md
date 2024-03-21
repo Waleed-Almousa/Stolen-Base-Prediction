@@ -10,5 +10,5 @@ Precision is most important in this context as it indicates that 97% of the time
 
 **stolen_base_features.csv** : The final data set used to train and test the model; all data comes from MLB statistics
 
-**main.ipynb**: The code and model we built in order to predict stolen base attempt successes/failure
+**main.ipynb**: The code and model built in order to predict stolen base attempt successes/failure
 
